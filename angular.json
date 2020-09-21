@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "apiDepor"
+    }
+  },
+  "defaultProject": "apiDepor",
+  "cli": {
+    "analytics": "436d00ef-2fe0-4927-9959-e73f20d7eef2"
+  }
 }
